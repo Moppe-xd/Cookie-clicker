@@ -1,2 +1,3 @@
 # Cookie-clicker
-Cookie clicker med Turtle
+Cookie clicker projekt i Python 3 och Turtle bibloteket
+Används som undervisningsmatrial i programmering 
